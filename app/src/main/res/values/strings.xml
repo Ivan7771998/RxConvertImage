@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RxConvertImage</string>
+
+
+    <string name="success">Картинка успешно прошла конвертацию в png и сохранена на телефон!</string>
+    <string name="failed">Картинка не загружена! Ошибка!</string>
+    <string name="load_picture">Загрузить картинку</string>
+    <string name="progress_wait_text">Картинка конвертируется! Подождите!</string>
 </resources>
